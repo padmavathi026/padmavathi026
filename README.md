@@ -27,6 +27,14 @@
    Python Developer-2023: Zero to Mastery
 
 "https://www.udemy.com/certificate/UC-2a447ee6-087a-436e-94ed-239db1a65775/
+
+   Internshala Machine Learning Training
+
+ "https://online.publuu.com/580462/1302837"
+
+   Microsoft Certificate
+
+  "https://online.publuu.com/580462/1302841"
     
 
 <h4> 🤳 Connect with me:</h4>
