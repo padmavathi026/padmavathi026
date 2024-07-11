@@ -12,7 +12,7 @@
 <h2>👨‍💻 WEB DEVELOPMENT PROJECT</h2>
 
 - <b>Blood point Management System (using HTML, CSS, Javascript) </b>
-  - [Blood Point Management System](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Blood Point Management System](https://github.com/padmavathi026/Blood-Point-Management-System/tree/main)
 
 <h3> 👨‍💻CERTIFICATIONS</h3>
    
