@@ -7,7 +7,7 @@
 - <b>Heart Disease Prediction Project using Data Science and Machine Learning models ( Logistic Regression, Random Forest, Support vector Machine, and Decision Tree)</b>
   - [Prediction of Heart Disease](https://github.com/padmavathi026/Heart-Disease-Prediction) 
 - <b>Finding similar Dresses available in the market using machine learning and Deep learning models ( using NLP, OpenCV, Tensorflow, image processing techniques)</b>
-  - [Finding similar Dresses](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Finding similar Dresses](https://github.com/padmavathi026/Finding-Similar-Dress-Available-in-the-Market-Using-Image-Processing-and-NLP)
 
 <h2>👨‍💻 WEB DEVELOPMENT PROJECT</h2>
 
