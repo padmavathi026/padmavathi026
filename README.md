@@ -8,7 +8,7 @@
   - [Prediction of Heart Disease](https://github.com/padmavathi026/Heart-Disease-Prediction) 
 - <b>Finding similar Dresses available in the market using machine learning and Deep learning models ( using NLP, OpenCV, Tensorflow, image processing techniques)</b>
   - [Finding similar Dresses](https://github.com/padmavathi026/Finding-Similar-Dress-Available-in-the-Market-Using-Image-Processing-and-NLP)
-- <b> Diabetes Prediction using Fast API, Docker and Machine Learning)</b>
+- <b> Diabetes Prediction using Fast API, Docker and Machine Learning</b>
   - [Portfolio using Jupyter Notebook](https://github.com/padmavathi026/Portfolio)
   - [Prediction of Diabetes](https://github.com/padmavathi026/Prediction-of-Diabetes)
   - [FastAPI](https://github.com/padmavathi026/fastapi_fall24)
