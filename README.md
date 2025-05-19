@@ -12,7 +12,7 @@
   - [Portfolio using Jupyter Notebook](https://github.com/padmavathi026/Portfolio)
   - [Prediction of Diabetes](https://github.com/padmavathi026/Prediction-of-Diabetes)
   - [FastAPI](https://github.com/padmavathi026/fastapi_fall24)
-- <b>Spotify Music Listening Behavoir - Behavioral Clusterig & Time Series Analysis</b>
+- <b>Spotify Music Listening Behavoir - Behavioral Clusterig & Time Series Analysis using R</b>
   - [Spotify Music Listening Behavoir](https://github.com/padmavathi026/Spotify-Music-listening)
 
 
