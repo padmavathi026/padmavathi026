@@ -15,7 +15,7 @@
 - <b>Spotify Music Listening Behavoir - Behavioral Clusterig & Time Series Analysis using R</b>
   - [Spotify Music Listening Behavoir](https://github.com/padmavathi026/Spotify-Music-listening)
 - <b>Subscription and Recurring Payment Tracker using PostgreSQL</b>
-  - [Subscription and Recurring Payment Tracker](https://github.com/padmavathi026/Spotify-Music-listening)
+  - [Subscription and Recurring Payment Tracker](https://github.com/padmavathi026/Subscription-and-Recurring-Payment-Tracker)
 
 
 <h2>👨‍💻 WEB DEVELOPMENT PROJECT</h2>
