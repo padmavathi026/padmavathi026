@@ -13,7 +13,7 @@
   - [Prediction of Diabetes](https://github.com/padmavathi026/Prediction-of-Diabetes)
   - [FastAPI](https://github.com/padmavathi026/fastapi_fall24)
 - <b>Spotify Music Listening Behavoir - Behavioral Clusterig & Time Series Analysis</b>
-  - [Spotify Music Listening Behavoir](https://github.com/padmavathi026/Finding-Similar-Dress-Available-in-the-Market-Using-Image-Processing-and-NLP)
+  - [Spotify Music Listening Behavoir](https://github.com/padmavathi026/Spotify-Music-listening)
 
 
 <h2>👨‍💻 WEB DEVELOPMENT PROJECT</h2>
