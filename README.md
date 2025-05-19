@@ -26,6 +26,10 @@
 - <b>Blood point Management System (using HTML, CSS, Javascript) </b>
   - [Blood Point Management System](https://github.com/padmavathi026/Blood-Point-Management-System/tree/main)
 
+<h5>👨‍💻 MACHINE LEARNING PROJECTS </h5>
+- <b>Subscription and Recurring Payment Tracker using PostgreSQL</b>
+  - [Subscription and Recurring Payment Tracker](https://github.com/padmavathi026/Subscription-and-Recurring-Payment-Tracker)
+
 <h5> 👨‍💻CERTIFICATIONS</h5>
    
   Complete AI & Machine Learning Data Science Bootcamp
