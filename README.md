@@ -14,6 +14,8 @@
   - [FastAPI](https://github.com/padmavathi026/fastapi_fall24)
 - <b>Spotify Music Listening Behavoir - Behavioral Clusterig & Time Series Analysis using R</b>
   - [Spotify Music Listening Behavoir](https://github.com/padmavathi026/Spotify-Music-listening)
+- <b>Subscription and Recurring Payment Tracker using PostgreSQL</b>
+  - [Subscription and Recurring Payment Tracker](https://github.com/padmavathi026/Spotify-Music-listening)
 
 
 <h2>👨‍💻 WEB DEVELOPMENT PROJECT</h2>
