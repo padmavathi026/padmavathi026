@@ -16,22 +16,22 @@
   - [Spotify Music Listening Behavoir](https://github.com/padmavathi026/Spotify-Music-listening)
 
 
-<h3>👨‍💻 SQL PROJECT:</h2>
+<h3>👨‍💻 SQL PROJECT:</h3>
 
 - <b>Subscription and Recurring Payment Tracker using PostgreSQL</b>
   - [Subscription and Recurring Payment Tracker](https://github.com/padmavathi026/Subscription-and-Recurring-Payment-Tracker)
 
-<h5>👨‍💻 MACHINE LEARNING PROJECTS </h5>
-- <b>Subscription and Recurring Payment Tracker using PostgreSQL</b>
-  - [Subscription and Recurring Payment Tracker]
-  (https://github.com/padmavathi026/Smart-Fare-Prediction-Enhancing-Taxi-Pricing-with-Data-Driven-Intelligence---Comparative-Analysis)
+<h4>👨‍💻 MACHINE LEARNING PROJECTS </h4>
 
-<h4>👨‍💻 WEB DEVELOPMENT PROJECT</h4>
+- <b>Subscription and Recurring Payment Tracker using PostgreSQL</b>
+  - [Subscription and Recurring Payment Tracker] (https://github.com/padmavathi026/Smart-Fare-Prediction-Enhancing-Taxi-Pricing-with-Data-Driven-Intelligence---Comparative-Analysis)
+
+<h5>👨‍💻 WEB DEVELOPMENT PROJECT</h5>
 
 - <b>Blood point Management System (using HTML, CSS, Javascript) </b>
   - [Blood Point Management System](https://github.com/padmavathi026/Blood-Point-Management-System/tree/main)
 
-<h5> 👨‍💻CERTIFICATIONS</h5>
+<h6> 👨‍💻CERTIFICATIONS</h6>
    
   Complete AI & Machine Learning Data Science Bootcamp
 
@@ -54,7 +54,7 @@
   "https://online.publuu.com/580462/1302841"
     
 
-<h6> 🤳 Connect with me:</h6>
+<h7> 🤳 Connect with me:</h7>
 
 [<img align="left" alt="PADMAVATHI MOORTHY | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
