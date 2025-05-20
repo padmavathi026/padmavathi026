@@ -24,7 +24,7 @@
 <h4>👨‍💻 MACHINE LEARNING PROJECTS </h4>
 
 - <b>Smart Fare Prediction Enhancing Taxi Pricing with Data-Driven Intelligence Comparative-Analysis</b>
-  - [Smart Fare] (https://github.com/padmavathi026/Smart-Fare-Prediction-Enhancing-Taxi-Pricing-with-Data-Driven-Intelligence---Comparative-Analysis)
+  - [Smart Fare Prediction] (https://github.com/padmavathi026/Smart-Fare-Prediction)
 
 <h5>👨‍💻 WEB DEVELOPMENT PROJECT</h5>
 
