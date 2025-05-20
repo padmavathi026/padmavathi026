@@ -1,6 +1,6 @@
 <h1>Hi, I am PADMAVATHI MOORTHY! <br/></h1>
 
-<h2>👨‍💻 DATA SCIENCE PROJECTS:</h2>
+<h2>👨‍💻 DATA SCIENCE AND MACHINE LEARNING PROJECTS:</h2>
 
 - <b>Cyber Threat Intelligence Mining for Organizational Cybersecurity Resilience using Data Science and Machine Learning ( using K-Neighbors Classifier, Random Forest, Logistic Regression, HTML, and CSS </b>
   - [CTI Mining for organizations](https://github.com/padmavathi026/CYBER-THREAT-INTELLIGENCE-MINING-FOR-ORGANIZATIONAL-CYBERSECURITY-RESILIENCE)
@@ -14,6 +14,10 @@
   - [FastAPI](https://github.com/padmavathi026/fastapi_fall24)
 - <b>Spotify Music Listening Behavoir - Behavioral Clusterig & Time Series Analysis using R</b>
   - [Spotify Music Listening Behavoir](https://github.com/padmavathi026/Spotify-Music-listening)
+- <b>Smart Fare Prediction Enhancing Taxi Pricing with Data-Driven Intelligence Comparative-Analysis</b>
+  - [Smart Fare Prediction](https://github.com/padmavathi026/Smart-Fare-Prediction)
+- <b>Optimizing Taxi Trip Time Prediction Using NYC Trip Data and Machine Learning Using Hadoop and Spark</b>
+  - [Taxi Trip Time Prediction](https://github.com/padmavathi026/Smart-Fare-Prediction)
 
 
 <h3>👨‍💻 SQL PROJECT:</h3>
@@ -21,10 +25,6 @@
 - <b>Subscription and Recurring Payment Tracker using PostgreSQL</b>
   - [Subscription and Recurring Payment Tracker](https://github.com/padmavathi026/Subscription-and-Recurring-Payment-Tracker)
 
-<h4>👨‍💻 MACHINE LEARNING PROJECTS </h4>
-
-- <b>Smart Fare Prediction Enhancing Taxi Pricing with Data-Driven Intelligence Comparative-Analysis</b>
-  - [Smart Fare Prediction](https://github.com/padmavathi026/Smart-Fare-Prediction)
 
 <h5>👨‍💻 WEB DEVELOPMENT PROJECT</h5>
 
