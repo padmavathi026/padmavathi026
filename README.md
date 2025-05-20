@@ -23,8 +23,8 @@
 
 <h4>👨‍💻 MACHINE LEARNING PROJECTS </h4>
 
-- <b>Subscription and Recurring Payment Tracker using PostgreSQL</b>
-  - [Subscription and Recurring Payment Tracker] (https://github.com/padmavathi026/Smart-Fare-Prediction-Enhancing-Taxi-Pricing-with-Data-Driven-Intelligence---Comparative-Analysis)
+- <b>Smart Fare Prediction Enhancing Taxi Pricing with Data-Driven Intelligence Comparative-Analysis</b>
+  - [Smart Fare] (https://github.com/padmavathi026/Smart-Fare-Prediction-Enhancing-Taxi-Pricing-with-Data-Driven-Intelligence---Comparative-Analysis)
 
 <h5>👨‍💻 WEB DEVELOPMENT PROJECT</h5>
 
