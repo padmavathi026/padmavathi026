@@ -17,7 +17,7 @@
 - <b>Smart Fare Prediction Enhancing Taxi Pricing with Data-Driven Intelligence Comparative-Analysis</b>
   - [Smart Fare Prediction](https://github.com/padmavathi026/Smart-Fare-Prediction)
 - <b>Optimizing Taxi Trip Time Prediction Using NYC Trip Data and Machine Learning Using Hadoop and Spark</b>
-  - [Taxi Trip Time Prediction](https://github.com/padmavathi026/Smart-Fare-Prediction)
+  - [Taxi Trip Time Prediction](https://github.com/padmavathi026/Taxi-Trip-Time-Prediction/tree/main)
 
 
 <h3>👨‍💻 SQL PROJECT:</h3>
