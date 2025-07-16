@@ -19,7 +19,9 @@
 - <b>Optimizing Taxi Trip Time Prediction Using NYC Trip Data and Machine Learning Using Hadoop and Spark</b>
   - [Taxi Trip Time Prediction](https://github.com/padmavathi026/Taxi-Trip-Time-Prediction/tree/main)
 - <b>Genre-Classification and Chord Generation from Lyrics using LLMs and NLP</b>
-  - [Genre-Classification and Chord Generation](https://github.com/padmavathi026/Genre-Classification-and-Chord-Generation-from-Lyrics-using-LLMs) 
+  - [Genre-Classification and Chord Generation](https://github.com/padmavathi026/Genre-Classification-and-Chord-Generation-from-Lyrics-using-LLMs)
+- - <b>Deep Learning for Demand Forecasting in Retail Using Hybrid CNN-RNN and Transformer Models</b>
+  - [Deep Learning for Demand Forecasting in Retail](https://github.com/padmavathi026/Genre-Classification-and-Chord-Generation-from-Lyrics-using-LLMs) 
 
 <h3>👨‍💻 SQL PROJECT:</h3>
 
