@@ -28,7 +28,7 @@
 - <b>Subscription and Recurring Payment Tracker using PostgreSQL</b>
   - [Subscription and Recurring Payment Tracker](https://github.com/padmavathi026/Subscription-and-Recurring-Payment-Tracker)
 - <b>Design and Implementation of a SQL-Based Customer Churn Prediction System using PostgreSQL</b>
-  - [Design and Implementation of a SQL-Based Customer Churn Prediction System](https://github.com/padmavathi026/Subscription-and-Recurring-Payment-Tracker)
+  - [Design and Implementation of a SQL-Based Customer Churn Prediction System](https://github.com/padmavathi026/Design-and-Implementation-of-a-SQL-Based-Customer-Churn-Prediction-System)
 
 
 
