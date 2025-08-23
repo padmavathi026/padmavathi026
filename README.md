@@ -23,7 +23,7 @@
 - <b>Deep Learning for Demand Forecasting in Retail Using Hybrid CNN-RNN and Transformer Models</b>
   - [Deep Learning for Demand Forecasting in Retail](https://github.com/padmavathi026/Deep-Learning-for-Demand-Forecasting-in-Retail)
 - <b>Claude vs Chatgpt</b>
-  - [Claude_ChatGPT](https://github.com/padmavathi026/Deep-Learning-for-Demand-Forecasting-in-Retail) 
+  - [Claude_ChatGPT](https://github.com/padmavathi026/chatgpt_claude) 
 
 
 <h3>👨‍💻 SQL PROJECT:</h3>
