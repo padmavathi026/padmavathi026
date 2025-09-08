@@ -71,9 +71,13 @@
   "https://credentials.databricks.com/3e836b21-d7aa-4111-974b-c3de4c9370d6#acc.QnK4ZaHG"
    
     
-<h8> Resume </h8>
-[RESUME (PDF)] (https://drive.google.com/file/d/1_-rq7gp3JNBwVd8PcrbeobZhyUG8Y7G5/view?usp=sharing)
-<h7> 🤳 Connect with me:</h7>
+<h7> Resume </h7>
+<a href="https://drive.google.com/file/d/1_-rq7gp3JNBwVd8PcrbeobZhyUG8Y7G5/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
+
+
+<h8> 🤳 Connect with me:</h8>
 
 [<img align="left" alt="PADMAVATHI MOORTHY | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
