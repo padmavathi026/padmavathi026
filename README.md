@@ -61,8 +61,18 @@
    Microsoft Certificate
 
   "https://online.publuu.com/580462/1302841"
-    
 
+   DataBricks Academy Accreditation - GCP Databricks Platform Architect (Issued Aug 2025 · Expires Aug 2027) 
+   Credential ID 158482573
+  "https://credentials.databricks.com/c8419eb6-3c1e-4acb-91ac-6b26b2196093#acc.mhfFiWQs"
+
+   Databricks Certified Machine Learning Professional (Issued Aug 2025 · Expires Aug 2027)
+   Credential ID 158910937
+  "https://credentials.databricks.com/3e836b21-d7aa-4111-974b-c3de4c9370d6#acc.QnK4ZaHG"
+   
+    
+<h8> Resume </h8>
+[RESUME (PDF)] (https://drive.google.com/file/d/1_-rq7gp3JNBwVd8PcrbeobZhyUG8Y7G5/view?usp=sharing)
 <h7> 🤳 Connect with me:</h7>
 
 [<img align="left" alt="PADMAVATHI MOORTHY | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
