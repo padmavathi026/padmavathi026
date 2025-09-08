@@ -83,6 +83,6 @@
 
 
 [linkedin]:https://www.linkedin.com/in/padmavathi-moorthy-27ab922b0/
-[Google Scholar]:https://scholar.google.com/citations?user=2zmrPNYAAAAJ&hl=en
+
 
 
