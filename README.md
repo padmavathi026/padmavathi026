@@ -33,7 +33,7 @@
 - <b>Design and Implementation of a SQL-Based Customer Churn Prediction System using PostgreSQL</b>
   - [Design and Implementation of a SQL-Based Customer Churn Prediction System](https://github.com/padmavathi026/Design-and-Implementation-of-a-SQL-Based-Customer-Churn-Prediction-System)
 - <b>SQL Mini-Projects</b>
-  - [SQL Mini-Projects (Snippets Gallery)](https://github.com/padmavathi026/Design-and-Implementation-of-a-SQL-Based-Customer-Churn-Prediction-System)
+  - [SQL Mini-Projects (Snippets Gallery)](https://github.com/padmavathi026/SQL_mini_projects)
 
 
 
