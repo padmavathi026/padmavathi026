@@ -74,7 +74,7 @@
    
     
 <h7> Resume </h7>
-<a href="https://drive.google.com/file/d/1_-rq7gp3JNBwVd8PcrbeobZhyUG8Y7G5/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/18uX24zknGB2N5ctAsg3MDT7tupX0f-wL/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
 </a>
 
