@@ -73,11 +73,6 @@
   "https://credentials.databricks.com/3e836b21-d7aa-4111-974b-c3de4c9370d6#acc.QnK4ZaHG"
    
     
-<h7> Resume </h7>
-<a href="https://drive.google.com/file/d/18uX24zknGB2N5ctAsg3MDT7tupX0f-wL/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
-</a>
-
 
 <h8> 🤳 Connect with me:</h8>
 
