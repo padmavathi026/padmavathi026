@@ -26,6 +26,8 @@
   - [Claude_ChatGPT](https://github.com/padmavathi026/chatgpt_claude) 
 - <b>XGBoost_NN_Airbnb</b>
   - [XGBoost_NN_Airbnb](https://github.com/padmavathi026/XGBoost_NN_Airbnb) 
+- <b>Shannon Text Generation</b>
+  - [Shannon Text Generator](https://github.com/padmavathi026/Shannon_text_Generator)
 
 <h3>👨‍💻 SQL PROJECT:</h3>
 
