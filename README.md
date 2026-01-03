@@ -29,7 +29,7 @@
 - <b>Shannon Text Generation</b>
   - [Shannon Text Generator](https://github.com/padmavathi026/Shannon_text_Generator)
 
-<h3>👨‍💻 SQL PROJECT:</h3>
+<h3>👨‍💻 SQL PROJECTS:</h3>
 
 - <b>Subscription and Recurring Payment Tracker using PostgreSQL</b>
   - [Subscription and Recurring Payment Tracker](https://github.com/padmavathi026/Subscription-Tracker/tree/main)
