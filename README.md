@@ -24,7 +24,8 @@
   - [Deep Learning for Demand Forecasting in Retail](https://github.com/padmavathi026/Deep-Learning-for-Demand-Forecasting-in-Retail)
 - <b>Claude vs Chatgpt</b>
   - [Claude_ChatGPT](https://github.com/padmavathi026/chatgpt_claude) 
-
+- <b>XGBoost_NN_Airbnb</b>
+  - [XGBoost_NN_Airbnb](https://github.com/padmavathi026/XGBoost_NN_Airbnb) 
 
 <h3>👨‍💻 SQL PROJECT:</h3>
 
