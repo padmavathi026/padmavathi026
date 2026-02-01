@@ -27,7 +27,9 @@
 - <b>XGBoost_NN_Airbnb</b>
   - [XGBoost_NN_Airbnb](https://github.com/padmavathi026/XGBoost_NN_Airbnb) 
 - <b>Shannon Text Generation</b>
-  - [Shannon Text Generator](https://github.com/padmavathi026/Shannon_text_Generator)
+  - [Shannon Text Generator](https://github.com/padmavathi026/Shannon_text_Generator)  
+- <b>Flight Delay Prediction</b>
+  - [Flight Delay](https://github.com/padmavathi026/Flight-Delay-Prediction)
 
 <h3>👨‍💻 SQL PROJECTS:</h3>
 
